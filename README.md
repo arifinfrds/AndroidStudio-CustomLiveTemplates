@@ -48,7 +48,7 @@ logdkotlin
 or other supported live templates mentioned above, and you will see the live templates.
 
 
-### Supported Live Templates
+## Supported Live Templates
 ```
 logd, mark, adapterKotlin, navigateToOtherActivityKotlin
 ```
