@@ -1,10 +1,10 @@
 # AndroidStudio-CustomLiveTemplates
 
 This is some custom Live Templates to make development faster. It Containts Live Templates Android (using Kotlin) : 
-1. Mark
-2. RecyclerViewAdapter
-3. Log.d
-4. Navigation
+1. RecyclerViewAdapter
+2. Log.d
+3. Navigation
+4. Others
 
 ## Getting Started
 
@@ -36,21 +36,45 @@ Linux
 
 try to type 
 ```
-mark
-```
-```
-adapterkotlin
-```
-```
 logdkotlin
 ```
 
-or other supported live templates mentioned above, and you will see the live templates.
+or other supported live templates mentioned below, and you will see the live templates.
 
 
 ## Supported Live Templates
+
+### Comment
 ```
-logd, mark, adapterKotlin, navigateToOtherActivityKotlin
+mark
+```
+### Log
+```
+logd
+```
+### Adapter (+item_list.xml)
+```
+adapterkotlin
+```
+### RecyclerView
+```
+setuprecyclerviewkotlin
+```
+### UI
+```
+createarrowbackbuttonkotlin, createprogressdialogkotlin
+```
+### Navigation
+```
+navigatetootheractivitykotlin
+```
+### Layer
+```
+layerviewmodelkotlin, layerdataservice
+```
+### Extension Definition
+```
+extensiontoast
 ```
 
 ## Authors
