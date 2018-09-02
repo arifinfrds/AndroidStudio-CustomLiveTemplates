@@ -54,7 +54,7 @@ logd
 ```
 ### Adapter (+item_list.xml)
 ```
-adapterkotlin
+adapterkotlin, adapterjava
 ```
 ### RecyclerView
 ```
