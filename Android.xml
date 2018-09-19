@@ -55,4 +55,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="navigatetootheractivityjava" value="private void navigateToOtherActivityJava() {&#10;    Intent intent = new Intent(this, MainActivity.class);&#10;    startActivity(intent); &#10;}" description="Navigate to other Activity for Java" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
