@@ -66,7 +66,7 @@ createarrowbackbuttonkotlin, createprogressdialogkotlin
 ```
 ### Navigation
 ```
-navigatetootheractivitykotlin
+navigatetootheractivitykotlin, navigatetootheractivityjava
 ```
 ### Layer
 ```
