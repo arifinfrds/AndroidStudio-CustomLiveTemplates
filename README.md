@@ -32,6 +32,10 @@ Linux
 ~AndroidStudio<version>/config/templates
 ```
 
+Restart Android Studio. 
+
+If Android Studio cannot recognize the live template, other option would be create a dummy Live Template from Android Studio settings. Then replace the content of the file with this xml file.
+
 ## How to Use
 
 try to type 
